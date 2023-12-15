@@ -4,6 +4,10 @@
 
 ### Citation
 ```
-// Your code or test here
-console.log("Hellow, World!");
+@article{lee2024ipot,
+  title={Inducing Point Operator Transformer: A Flexible and Scalable Architecture for Solving PDEs},
+  author={Seungjun Lee and Taeil Oh},
+  journal={AAAI},
+  year={2024}
+}
 ```

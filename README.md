@@ -7,7 +7,7 @@ Implementation for [Inducing Point Operator Transformer: A Flexible and Scalable
 @article{lee2024ipot,
   title={Inducing Point Operator Transformer: A Flexible and Scalable Architecture for Solving PDEs},
   author={Seungjun Lee and Taeil Oh},
-  journal={The 38th Annual AAAI Conference on Artificial Intelligence},
+  journal={The 38th AAAI Conference on Artificial Intelligence},
   year={2024}
 }
 ```

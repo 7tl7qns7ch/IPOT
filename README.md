@@ -17,3 +17,13 @@ Solving partial differential equations (PDEs) by learning the solution operators
   year={2024}
 }
 ```
+```
+@inproceedings{
+lee2022meshindependent,
+title={Mesh-Independent Operator Learning for Partial Differential Equations},
+author={Seungjun Lee},
+booktitle={ICML 2022 2nd AI for Science Workshop},
+year={2022},
+url={https://openreview.net/forum?id=JUtZG8-2vGp}
+}
+```

@@ -3,7 +3,7 @@
 <img src="/figures/AAAI2024_poster.png">
 
 Implementation for [Inducing Point Operator Transformer: A Flexible and Scalable Architecture for Solving PDEs](https://arxiv.org/abs/2312.10975), accepted at AAAI 2024. 
-If you have any questions, please contact to tl7qns7ch@snu.ac.kr
+If you have any questions, please contact to slee19@bnl.gov or tl7qns7ch@snu.ac.kr.
 
 ## Abstract
 
